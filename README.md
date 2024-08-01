@@ -81,7 +81,7 @@
   </div>
 </br>
 <div align="left">
-  <img width="58%" src="https://github-readme-streak-stats.herokuapp.com?user=Vishwang0Suthar&theme=highcontrast&background=000000&sideNums=ff9800&sideLabels=ff9800&dates=ffffff&stroke=ff9800" height="180" alt="GitHub Streak Stats" />
+  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com?user=Vishwang0Suthar&theme=highcontrast&background=000000&sideNums=ff9800&sideLabels=ff9800&dates=ffffff&stroke=ff9800" height="180" alt="GitHub Streak Stats" />
 </div>
 </br>
 </br>
