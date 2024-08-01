@@ -1,32 +1,28 @@
-  <div align="center">
-    <img height="200" src="https://i.gifer.com/52O8.gif" />
-  </div>
-
-  ###
-
-  <div align="center" style="display:flex; justify-content:center; gap:15px">
-    <a href="https://www.linkedin.com/in/vishwang-suthar/" target="_blank">
-      <img class="social-icon" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="border-radius: 8px; filter: contrast(150%); transition: transform 800ms ease, border-radius 300ms ease, filter 800ms ease;" onmouseover="this.style.borderRadius='0'; this.style.transform='translateY(-6px)'; this.style.filter='grayscale(200%)';" onmouseout="this.style.borderRadius='8px'; this.style.transform='translateY(0)'; this.style.filter='contrast(150%)';"/>
-    </a>
-    <a href="https://linktr.ee/dripy_vishwng" target="_blank">
-      <img class="social-icon" src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" style="border-radius: 8px; filter: contrast(150%); transition: transform 800ms ease, border-radius 300ms ease, filter 800ms ease;" onmouseover="this.style.borderRadius='0'; this.style.transform='translateY(-6px)'; this.style.filter='grayscale(200%)';" onmouseout="this.style.borderRadius='8px'; this.style.transform='translateY(0)'; this.style.filter='contrast(150%)';"/>
-    </a>
-    <a href="mailto:vishwangsuthar.997@gmail.com" target="_blank">
-      <img class="social-icon" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" style="border-radius: 8px; filter: contrast(150%); transition: transform 800ms ease, border-radius 300ms ease, filter 800ms ease;" onmouseover="this.style.borderRadius='0'; this.style.transform='translateY(-6px)'; this.style.filter='grayscale(200%)';" onmouseout="this.style.borderRadius='8px'; this.style.transform='translateY(0)'; this.style.filter='contrast(150%)';"/>
-    </a>
-  </div>
 
   ###
 
   <h1 align="center" style="color: #fff;">hey there 👋</h1>
 
   ###
+<div align="center">
+    <a href="https://www.linkedin.com/in/vishwang-suthar/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
+    <a href="https://linktr.ee/dripy_vishwng" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+    </a>
+    <a href="mailto:vishwangsuthar.997@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    </a>
+</div>
+
+
 
   <h3 align="left" style="color: #fff;">👩‍💻  About Me</h3>
 
   ###
 
-  <p align="left" style="color: #fff;">I'm Vishwang Suthar from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning WordPress<br>- ⚡ In my free time, I watch anime or movies<br>- 🎖️ I reached the state-level hackathon SSIP'23 final, where over 20,000 students registered, as a team leader</p>
+  <p align="left" style="color: #fff;">I'm Vishwang Suthar from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack develope<br>- 📚 Quite passionate in learning new technoligies.  <br>- 🎖️ Made many responsive website throught my carrer at LDRP-ITR <br>-🎼 bibliophile & melophile</p>
 
   ###
 
@@ -72,11 +68,6 @@
 
   <h3 align="left"></h3>
 
-  ###
-
-  <div align="center">
-    <img height="200" src="https://media0.giphy.com/media/GHEFNHqrXauspeO8iV/giphy.webp?cid=ecf05e472977jlsokadehyzm6er4ws8q9u0l85blxa404mxn&ep=v1_gifs_search&rid=giphy.webp&ct=g" />
-  </div>
 
   ###
 <br clear="both"> 
