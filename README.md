@@ -3,9 +3,8 @@
 <img  height="200" src="https://i.pinimg.com/originals/56/8f/7f/568f7f9733c9bd74cded4fbc9c85a4ad.gif"/>
 </div>  
 
-  <h1 align="center" style="color: #fff;">hey there 👋</h1>
-
-  ###
+  <h1 align="center" style="color: #fff;">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  </h1>
 <div align="center">
     <a href="https://www.linkedin.com/in/vishwang-suthar/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -20,11 +19,10 @@
 
 
 
-  <h3 align="left" style="color: #fff;">👩‍💻  About Me</h3>
 
   ###
 
-  <p align="left" style="color: #fff;">I'm Vishwang Suthar from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack develope<br>- 📚 Quite passionate in learning new technoligies.  <br>- 🎖️ Made many responsive website throught my carrer at LDRP-ITR <br>-🎼 bibliophile & melophile</p>
+  <pre align="left" style="color: #fff;">I'm <h2>Vishwang Suthar</h2> from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack develope<br>- 📚 Quite passionate in learning new technoligies.  <br>- 🎖️ Made many responsive website throught my carrer at LDRP-ITR <br>- 🎼 bibliophile & melophile</pre>
 
   ###
 
@@ -69,7 +67,9 @@
   ###
 
   <h3 align="left"></h3>
-
+<div align="center">
+<img  height="200" width="200" src="https://i.gifer.com/cFA.gif"/>
+</div> 
 
   ###
 <br clear="both"> 
@@ -85,7 +85,7 @@
 </div>
 </br>
 </br>
-    <img  src="https://komarev.com/ghpvc/?username=Vishwang0Suthar&label=Profile%20views&color=ff9800&style=flat" alt="Profile views" />
+    <img  src="https://komarev.com/ghpvc/?username=Vishwang0Suthar&label=Profile%20Visits&color=orange&style=for-the-badge" alt="Profile views" />
   
 </div>
 
