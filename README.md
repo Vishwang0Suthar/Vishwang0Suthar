@@ -12,6 +12,9 @@
     <a href="https://linktr.ee/dripy_vishwng" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
     </a>
+    <a href="https://www.instagram.com/vishwang._.suthar/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+    </a>
     <a href="mailto:vishwangsuthar.997@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     </a>
