@@ -80,7 +80,7 @@
 
 <a>
   <img  src="https://github-readme-stats.vercel.app/api?username=Vishwang0Suthar&show_icons=true&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false" height="180" alt="GitHub Stats" /></a>
-&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwang0Suthar&layout=compact&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_border=false&card_width=320&langs_count=5" height="180" alt="Top Languages" />
 
 </br>
