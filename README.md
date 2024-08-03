@@ -76,20 +76,23 @@
 
   ###
 <br clear="both"> 
-<div align="center" >
-<div>
+<div align="left" >
+
 <a>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Vishwang0Suthar&show_icons=true&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false" height="180" alt="GitHub Stats" /></a>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwang0Suthar&layout=compact&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_border=false&card_width=320&langs_count=5" height="180" alt="Top Languages" />
-  </div>
-</br>
-<div align="left">
-  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com?user=Vishwang0Suthar&theme=highcontrast&background=000000&sideNums=ff9800&sideLabels=ff9800&dates=ffffff&stroke=ff9800" height="180" alt="GitHub Streak Stats" />
-</div>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Vishwang0Suthar&show_icons=true&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false" height="180" alt="GitHub Stats" /></a>
+&nbsp&nbsp&nbsp&nbsp
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwang0Suthar&layout=compact&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_border=false&card_width=320&langs_count=5" height="180" alt="Top Languages" />
+
 </br>
 </br>
+
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Vishwang0Suthar&theme=highcontrast&background=000000&sideNums=ff9800&sideLabels=ff9800&dates=ffffff&stroke=ff9800" height="180" alt="GitHub Streak Stats" />
+
+</br>
+</br>
+<div align="center">
     <img  src="https://komarev.com/ghpvc/?username=Vishwang0Suthar&label=Profile%20Visits&color=orange&style=for-the-badge" alt="Profile views" />
-  
+  </div>
 </div>
 
   
