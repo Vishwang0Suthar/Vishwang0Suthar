@@ -25,7 +25,7 @@
 
   ###
 
-  <pre align="left" style="color: #fff;">I'm <h2>Vishwang Suthar</h2> from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack develope<br>- 📚 Quite passionate in learning new technoligies.  <br>- 🎖️ Made many responsive website throught my carrer at LDRP-ITR <br>- 🎼 bibliophile & melophile</pre>
+  <pre align="left" style="color: #fff;">I'm <h2>Vishwang Suthar</h2> from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 Quite passionate about learning new technoligies.  <br>- 🎖️ Made many responsive website throught my carrer at LDRP-ITR <br>- 🎼 bibliophile & melophile</pre>
 
   ###
 
