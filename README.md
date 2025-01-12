@@ -7,16 +7,16 @@
   </h1>
 <div align="center">
     <a href="https://www.linkedin.com/in/vishwang-suthar/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=015FFE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
     <a href="https://linktr.ee/dripy_vishwng" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+      <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=00BE48&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
     </a>
     <a href="https://www.instagram.com/vishwang._.suthar/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0058&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
     </a>
     <a href="mailto:vishwangsuthar.997@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6300&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     </a>
 </div>
 
