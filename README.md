@@ -76,7 +76,7 @@
 
 <br clear="both">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwang0suthar&theme=radical" alt="vishwang0suthar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwang0suthar&theme=juicyfresh" alt="vishwang0suthar" /></a> </p>
 
 ###
 
