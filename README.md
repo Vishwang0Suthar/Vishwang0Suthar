@@ -1,104 +1,42 @@
-<div style=""></div>
 <div align="center">
-<img  height="200" src="https://i.pinimg.com/originals/56/8f/7f/568f7f9733c9bd74cded4fbc9c85a4ad.gif"/>
-</div>  
-
-  <h1 align="center" style="color: #fff;">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  </h1>
-<div align="center">
-    <a href="https://www.linkedin.com/in/vishwang-suthar/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=015FFE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
-    <a href="https://linktr.ee/dripy_vishwng" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=00BE48&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
-    </a>
-    <a href="https://www.instagram.com/vishwang._.suthar/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0058&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
-    </a>
-    <a href="mailto:vishwangsuthar.997@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6300&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
+<img src="assets/headings/name.svg" alt="vishwang0suthar" width="380"><br><br>
+<img src="assets/portrait.svg" alt="ASCII portrait" width="460">
 </div>
 
+<br>
 
-  ###
+<img src="assets/headings/about.svg" alt="about" width="760">
 
-  <pre align="left" style="color: #fff;"><h2>Vishwang Suthar</h2> from Gandhinagar, Gujarat, India<br><br>- 📚 Quite passionate about learning new technoligies.  <br>- 🎖️ Made many responsive website throught my carrer at LDRP-ITR <br>- 🎼 bibliophile & melophile</pre>
+> Building things, mostly in the open. This page rebuilds itself every<br>
+> night from a scheduled GitHub Action — no third-party image services,<br>
+> no external requests, nothing that can 503 on you.
 
-  ###
+<br>
 
-  <h3 align="left" style="color: #fff;">🛠 Language and tools</h3>
+<img src="assets/headings/stats.svg" alt="stats" width="760">
 
-  ###
+<img src="stats.svg" alt="contribution stats" width="480">
 
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-    <img width="12" />
-  </div>
+<img src="streak.svg" alt="contribution streaks" width="480">
 
-  ###
+<br>
 
-  <h3 align="left"></h3>
-<div align="center">
-<!-- <img  height="200" width="200" src="https://i.gifer.com/cFA.gif"/> -->
-</div> 
+<img src="assets/headings/languages.svg" alt="top languages" width="760">
 
+<img src="langs.svg" alt="top languages" width="480">
 
-<br clear="both">
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwang0suthar&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C" alt="vishwang0suthar" /></a> </p>
+<img src="assets/headings/year.svg" alt="the past year" width="760">
 
-  ###
-<br clear="both"> 
-<div align="left" >
+<img src="year.svg" alt="contributions per day, past year" width="760">
 
-<a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Vishwang0Suthar&show_icons=true&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false" height="180" alt="GitHub Stats" /></a>
-&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwang0Suthar&layout=compact&theme=highcontrast&bg_color=000000&title_color=ff9800&text_color=ffffff&hide_border=false&card_width=320&langs_count=5" height="180" alt="Top Languages" />
+<br>
 
-</br>
-</br>
+---
 
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Vishwang0Suthar&theme=highcontrast&background=000000&sideNums=ff9800&sideLabels=ff9800&dates=ffffff&stroke=ff9800" height="180" alt="GitHub Streak Stats" />
-
-</br>
-</br>
-<div align="center">
-    <img  src="https://komarev.com/ghpvc/?username=Vishwang0Suthar&label=Profile%20Visits&color=orange&style=for-the-badge" alt="Profile views" />
-  </div>
-</div>
-
-  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=100"/>
-</p>
+<sub>Portrait pipeline adapted from the ASCII Portrait README Guide.
+Typeface: JetBrains Mono, SIL OFL 1.1 — licence included in
+<code>assets/fonts/OFL.txt</code>. Stats regenerate nightly via
+<code>.github/workflows/refresh-stats.yml</code>, using only the
+GitHub GraphQL API and the Python standard library.</sub>
