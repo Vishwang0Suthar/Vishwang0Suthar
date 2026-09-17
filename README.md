@@ -1,6 +1,8 @@
 
 <img src="assets/headings/name.svg" alt="vishwang0suthar" width="760">
-<div ><img align="center" src="assets/portrait.svg" alt="ASCII portrait" width="460">
+
+<div align="center">
+  <img src="assets/portrait.svg" alt="ASCII portrait" width="460">
 </div>
 
 <br>
