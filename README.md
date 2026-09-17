@@ -16,10 +16,12 @@
 <br>
 
 <img src="assets/headings/stats.svg" alt="stats" width="760">
+<div align="center">
 
 <img src="stats.svg" alt="contribution stats" width="480">
 
 <img src="streak.svg" alt="contribution streaks" width="480">
+</div>
 
 <br>
 
