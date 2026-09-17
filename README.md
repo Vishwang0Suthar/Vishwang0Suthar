@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/headings/name.svg" alt="vishwang0suthar" width="380"><br><br>
+<img src="assets/headings/name.svg" alt="vishwang0suthar" width="760">
 <img src="assets/portrait.svg" alt="ASCII portrait" width="460">
 </div>
 
