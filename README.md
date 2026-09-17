@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="assets/headings/languages.svg" alt="top languages" width="760">
+<!-- <img src="assets/headings/languages.svg" alt="top languages" width="760">
 
 <img src="langs.svg" alt="top languages" width="480">
 
@@ -31,7 +31,7 @@
 
 <img src="year.svg" alt="contributions per day, past year" width="760">
 
-<br>
+<br> -->
 
 ---
 
