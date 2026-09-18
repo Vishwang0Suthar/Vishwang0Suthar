@@ -9,9 +9,7 @@
 
 <img src="assets/headings/about.svg" alt="about" width="760">
 
-> Building things, mostly in the open. This page rebuilds itself every<br>
-> night from a scheduled GitHub Action — no third-party image services,<br>
-> no external requests, nothing that can 503 on you.
+> Building things, mostly in the open. 
 
 <br>
 
