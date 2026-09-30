@@ -14,15 +14,15 @@ text { font-family: 'jbm-body', monospace; fill: #1a1a1a; }
 <text x="20" y="30" font-size="13">Python</text>
 <rect x="160" y="20" width="220" height="10" fill="#eeeeee"/>
 <rect x="160" y="20" width="220.0" height="10" fill="#3572A5"/>
-<text x="390" y="30" font-size="12" class="dim">62.4%</text>
+<text x="390" y="30" font-size="12" class="dim">62.2%</text>
 <text x="20" y="54" font-size="13">Jupyter Notebook</text>
 <rect x="160" y="44" width="220" height="10" fill="#eeeeee"/>
 <rect x="160" y="44" width="111.0" height="10" fill="#DA5B0B"/>
-<text x="390" y="54" font-size="12" class="dim">31.5%</text>
+<text x="390" y="54" font-size="12" class="dim">31.4%</text>
 <text x="20" y="78" font-size="13">TypeScript</text>
 <rect x="160" y="68" width="220" height="10" fill="#eeeeee"/>
-<rect x="160" y="68" width="11.8" height="10" fill="#3178c6"/>
-<text x="390" y="78" font-size="12" class="dim">3.3%</text>
+<rect x="160" y="68" width="13.1" height="10" fill="#3178c6"/>
+<text x="390" y="78" font-size="12" class="dim">3.7%</text>
 <text x="20" y="102" font-size="13">Mathematica</text>
 <rect x="160" y="92" width="220" height="10" fill="#eeeeee"/>
 <rect x="160" y="92" width="3.7" height="10" fill="#dd1100"/>
